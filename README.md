@@ -1,4 +1,4 @@
-# java-Tetris
+# Java Tetris
 
 Este é um jogo feito em Java utlizando apenas bibliotecas nativas, o
 swing e awt. A engine deste jogo não foi feita por mim, mas tirada de
